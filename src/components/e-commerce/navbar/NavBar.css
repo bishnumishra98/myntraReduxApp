@@ -1,0 +1,21 @@
+nav {
+    background-color: darkcyan;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 2px 2px;
+    font-size: 2rem;
+}
+
+.banner {
+    color: white;
+}
+
+.cart-layout {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: white;
+}
+
